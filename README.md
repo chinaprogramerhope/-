@@ -1,1 +1,1 @@
-WebSocket wiki
+WebSocket Wiki
